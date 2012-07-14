@@ -1,0 +1,2 @@
+module ClienteProductoIdsHelper
+end
